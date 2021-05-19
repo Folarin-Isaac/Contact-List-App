@@ -1,7 +1,6 @@
 # Contact-List-App
-Mobile Application that displays an updated list of names on the GADS LeaderBoard (Google Africa Developers Scholarship 2020)
+This is an app for creating a list of contacts and different categories using a dialog form that takes some input from the user and displays in a RecyclerView.
 
-This application enables users submit project details directly from the app to a google form
 
 ## Screenshots from the App
 <div style="display: flex">
