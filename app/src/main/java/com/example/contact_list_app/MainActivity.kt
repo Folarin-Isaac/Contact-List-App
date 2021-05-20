@@ -18,12 +18,13 @@ class MainActivity : AppCompatActivity() {
         setupCategory(binding)
 
     }
+
     private fun setupCategory(binding: ActivityMainBinding) {
         val categories = listOf(
             Category("Family", "F"),
             Category("Business", "B"),
             Category("Friends", "F"),
-            Category("Tutors", "T"),
+            Category("Tutors", "T")
 
         )
         val adapter = CategoryAdapter(categories)
@@ -31,7 +32,6 @@ class MainActivity : AppCompatActivity() {
         binding.categoryRecyclerview.layoutManager = GridLayoutManager(this, 2)
         binding.categoryRecyclerview.setHasFixedSize(true)
     }
-
 
 
 }

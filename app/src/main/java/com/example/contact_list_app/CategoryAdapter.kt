@@ -44,11 +44,11 @@ class CategoryAdapter(private val categories: List<Category>) :
             )
             val androidColors = binding.root.context.resources.getIntArray(R.array.androidColors)
 
-            binding.relativeLayout.setBackgroundColor(androidColors[position])
+            binding.linearLayout.setBackgroundColor(androidColors[position])
             binding.categoryInitials.text = category.initials
             binding.categoryText.text = category.name
 
-            binding.relativeLayout.setOnClickListener {
+            binding.linearLayout.setOnClickListener {
                 val intent = Intent(binding.root.context, ContactListActivity::class.java)
                 intent.putExtra("TITLE", category.name)
                 binding.root.context.startActivity(intent)
