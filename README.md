@@ -4,9 +4,11 @@ This is an app for creating a list of contacts and different categories using a 
 
 ## Screenshots from the App
 <div style="display: flex">
-<img src="https://user-images.githubusercontent.com/61974682/118748130-34a5a780-b853-11eb-807e-428fe96d7a65.jpeg" width="300px"/> 
-<img src="https://user-images.githubusercontent.com/61974682/118748499-bb5a8480-b853-11eb-993d-45884e3cac1c.jpeg" width="300px"/>
-<img src="https://user-images.githubusercontent.com/61974682/118748555-d2997200-b853-11eb-85f3-d7b1abf3c06d.jpeg" width="300px"/>
+<img src="https://user-images.githubusercontent.com/61974682/119009993-89e4d480-b98b-11eb-911f-49d94ae13f58.png" width="300px"/> 
+<img src="https://user-images.githubusercontent.com/61974682/119010010-8cdfc500-b98b-11eb-8516-49231b8b2af1.png" width="300px"/>
+<img src="https://user-images.githubusercontent.com/61974682/119010019-8e10f200-b98b-11eb-99a3-ac9852bbd3b3.png" width="300px"/>
+<img src="https://user-images.githubusercontent.com/61974682/119010031-8fdab580-b98b-11eb-88ba-7ffd0e62cf9b.png" width="300px"/>
+<img src="https://user-images.githubusercontent.com/61974682/119010035-910be280-b98b-11eb-8fc4-f35a976d21f2.png" width="300px"/>
 
 </div>
 
