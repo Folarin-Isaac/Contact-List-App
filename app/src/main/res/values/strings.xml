@@ -8,4 +8,14 @@
     <string name="contact_name"> Contact Name</string>
     <string name="fab_desc"> Fab opens the Alertdialog </string>
     <string name="phone_no"> 09034029095 </string>
+    <string name="login"> Login </string>
+    <string name="email"> Email </string>
+    <string name="register"> Register </string>
+    <string name="password"> Password </string>
+    <string name="new_user"> New User? Click here to REGISTER </string>
+    <string name="database_name">user-db</string>
+    <string name="password_error_message">Incorrect email or password</string>
+    <string name="existing_user">Already registered, click here to log in</string>
+
+
 </resources>
