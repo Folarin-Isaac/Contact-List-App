@@ -1,17 +1,17 @@
-package com.example.contact_list_app
+package com.example.contact_list_app.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.Editable
 import android.text.TextWatcher
 import android.widget.Button
-import android.widget.EditText
 import android.widget.LinearLayout
-import android.widget.TextView
 import androidx.appcompat.app.AlertDialog
 import androidx.recyclerview.widget.DividerItemDecoration
+import com.example.contact_list_app.Contact
+import com.example.contact_list_app.R
+import com.example.contact_list_app.adapter.ContactAdapter
 import com.example.contact_list_app.databinding.ActivityContactListBinding
-import com.example.contact_list_app.databinding.ActivityMainBinding
 import com.google.android.material.textfield.TextInputEditText
 
 class ContactListActivity : AppCompatActivity() {

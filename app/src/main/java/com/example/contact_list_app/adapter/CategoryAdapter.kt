@@ -1,10 +1,13 @@
-package com.example.contact_list_app
+package com.example.contact_list_app.adapter
 
 import android.content.Intent
 import android.graphics.Color
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.example.contact_list_app.Category
+import com.example.contact_list_app.ui.ContactListActivity
+import com.example.contact_list_app.R
 import com.example.contact_list_app.databinding.CategoryListItemsBinding
 import java.util.*
 

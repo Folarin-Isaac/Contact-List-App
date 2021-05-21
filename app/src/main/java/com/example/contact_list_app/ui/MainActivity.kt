@@ -1,11 +1,10 @@
-package com.example.contact_list_app
+package com.example.contact_list_app.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
-import android.widget.EditText
-import androidx.appcompat.app.AlertDialog
 import androidx.recyclerview.widget.GridLayoutManager
+import com.example.contact_list_app.Category
+import com.example.contact_list_app.adapter.CategoryAdapter
 import com.example.contact_list_app.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
